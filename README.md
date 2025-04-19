@@ -17,18 +17,38 @@ Created with ❤️ by [Mahdi Hasan](https://github.com/mhsecus) (MHSec) — �
 - ✅ Works smoothly on Kali Linux & other distros
 
 ---
+# 🔒 WAF-UI-Checker
 
-## 📸 Screenshot
-
-<img src="https://raw.githubusercontent.com/mhsecus/WAF-UI-Checker/main/demo.png" alt="Demo Screenshot" width="100%">
+**WAF-UI-Checker** is a simple yet powerful CLI tool built with Bash that helps security testers identify Web Application Firewalls (WAFs) protecting target websites. It supports both single and bulk domain/IP/subdomain checks with a clean and colorful terminal UI.
 
 ---
 
-## 🛠️ Requirements
+## ✨ Features
 
-- Bash (default on Linux)
-- [`wafw00f`](https://github.com/EnableSecurity/wafw00f)
+- ✅ Detect WAFs using `wafw00f`
+- 🔢 Supports:
+  - Single domain/IP
+  - Multiple domains, subdomains, or IPs from a `.txt` file
+- 🎨 Beautiful terminal UI with color-coded output
+- 🐧 Built for Linux (Kali friendly)
 
-### 🔧 Install `wafw00f`:
+---
+
+## 📥Install wafw00f
+
 ```bash
-sudo apt install wafw00f
+sudo apt update
+sudo apt install wafw00f -y
+```
+
+## 📥 How to Download
+
+Clone the repository and run the script:
+
+```bash
+git clone https://github.com/mhsecus/WAF-UI-Checker.git
+cd WAF-UI-Checker
+chmod +x waf-ui-checker.sh
+./waf-ui-checker.sh
+```
+
