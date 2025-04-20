@@ -1,4 +1,4 @@
-# WAF-UI-Checker
+# WAF-Checker
 ![License](https://img.shields.io/github/license/mhsecus/WAF-UI-Checker)
 ![Stars](https://img.shields.io/github/stars/mhsecus/WAF-UI-Checker?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/mhsecus/WAF-UI-Checker)
@@ -50,9 +50,9 @@ sudo apt install wafw00f -y
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/mhsecus/WAF-UI-Checker.git
+git clone https://github.com/mhsecus/WAF-Checker.git
 cd WAF-UI-Checker
-chmod +x waf-ui-checker.sh
+chmod +x WAF-Checker.sh
 ./waf-ui-checker.sh
 ```
 
