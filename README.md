@@ -1,4 +1,8 @@
 # WAF-UI-Checker
+![License](https://img.shields.io/github/license/mhsecus/WAF-UI-Checker)
+![Stars](https://img.shields.io/github/stars/mhsecus/WAF-UI-Checker?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/mhsecus/WAF-UI-Checker)
+
 Powered by Wafwoof
 
 # 🔥 WAF-UI-Checker
