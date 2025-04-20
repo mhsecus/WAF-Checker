@@ -38,7 +38,7 @@ Created with ❤️ by [Mahdi Hasan](https://github.com/mhsecus) (MHSec) — �
 
 ---
 
-## 📥Install wafw00f
+## 📥Install The Dependencies wafw00f
 
 ```bash
 sudo apt update
